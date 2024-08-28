@@ -34,11 +34,12 @@ Para realizar esta atividade, tive que pensar em um prompt que remetesse a ideia
 ## 🚀 Resultados
 Em um primeiro momento, a IA me forneceu um resultado satisfatório. A única resalva é que eu não queria o usuário trabalhando ouvindo música em um fone. Porém, mesmo fazendo essa restrição no prompt, ainda assim o mesmo gerava imagens de usuários usando fones de ouvido.
 Somente em um dos casos consegui a imagem de um usuário sem fone. Abaixo temos o resultado.
-![Imagem](https://github.com/josericardojr/lab-natty-or-not/blob/main/img_flow.jpg)
 
 ## 💭 Reflexão (Opcional)
 A geração de imagens através de IA generativa ainda precisa ser refinada. Em muitos casos, é possível perceber artefatos no resultado como a colorização e composições descontextualizadas. 
 ```
+Imagem gerada
+![Imagem](https://github.com/josericardojr/lab-natty-or-not/blob/main/img_flow.jpg)
 
 ### Exemplos e Insigths
 
