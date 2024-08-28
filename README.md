@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Geração de Imagem
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Estou realizando o desenvolvimento de uma apresentação sobre jogos e saúde e precisei exemplificar o conceito de Imersão. Para isso, criei utilizando IA generativa uma imagem que representasse esse conceito.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Nesta tarefa, utilizei o Microsoft Bing Image 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para realizar esta atividade, tive que pensar em um prompt que remetesse a ideia de imersão e estado de fluxo. Assim, pensei em um prompt que envolvesse uma pessoa trabalhando no computador e várias distrações ao seu redor.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Em um primeiro momento, a IA me forneceu um resultado satisfatório. A única resalva é que eu não queria o usuário trabalhando ouvindo música em um fone. Porém, mesmo fazendo essa restrição no prompt, ainda assim o mesmo gerava imagens de usuários usando fones de ouvido.
+Somente em um dos casos consegui a imagem de um usuário sem fone. Abaixo temos o resultado.
+![Imagem](https://github.com/josericardojr/lab-natty-or-not/blob/main/img_flow.jpg)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A geração de imagens através de IA generativa ainda precisa ser refinada. Em muitos casos, é possível perceber artefatos no resultado como a colorização e composições descontextualizadas. 
 ```
 
 ### Exemplos e Insigths
